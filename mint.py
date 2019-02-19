@@ -75,9 +75,6 @@ for row in cr:
 	print (output)
 
 	time.sleep(3)
-
-
-
 	print ('\n\n===================\n')
 
 
